@@ -5,3 +5,7 @@
 Create and destroy an Ubuntu 16.04 LTS instance in any Cloud provider.
 
 Just run `$ ./terraform.sh aws|azure|google create|destroy`.
+
+## Requirements
+
+[Terraform](https://www.terraform.io) installed.
