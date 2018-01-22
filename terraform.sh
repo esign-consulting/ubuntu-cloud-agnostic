@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 PROVIDER=$1
 ACTION=$2
